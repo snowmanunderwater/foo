@@ -5,5 +5,5 @@ import "fmt"
 
 
 func main() {
-	fmt.Println("hello from command")
+	fmt.Println("hello from fff")
 }
